@@ -1,0 +1,10 @@
+info:
+  name: sales
+  description: Tomato Sales App
+
+server:
+  port: 8080
+
+data:
+  records:
+    max: 1000
